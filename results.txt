@@ -1,0 +1,314 @@
+Read 5901 old games and 4524 new games
+Games grouped by 194 tournaments
+
+Processing tournament ('old', 4): 36 players, 8.0 rounds
+Shuffler RandomShuffler: min: 106.0, max: 162.0, mean 135.220000, stddev 2.905925
+Shuffler TotalLinearPenaltyShuffler: min: 106.0, max: 150.0, mean 133.480000, stddev 2.693548
+Shuffler TotalSquaredPenaltyShuffler: min: 110.0, max: 160.0, mean 134.200000, stddev 2.834784
+Shuffler SeparateLinearPenaltyShuffler: min: 16.0, max: 36.0, mean 25.040000, stddev 1.777189
+Shuffler SeparateSquarePenaltyShuffler: min: 14.0, max: 36.0, mean 24.780000, stddev 1.874993
+Shuffler LexMinListShuffler: min: 12.0, max: 34.0, mean 24.000000, stddev 1.907878
+
+Processing tournament ('old', 50): 64 players, 10.0 rounds
+Shuffler RandomShuffler: min: 260.0, max: 329.0, mean 287.960000, stddev 3.637911
+Shuffler TotalLinearPenaltyShuffler: min: 253.0, max: 331.0, mean 288.970000, stddev 3.395850
+Shuffler TotalSquaredPenaltyShuffler: min: 263.0, max: 313.0, mean 288.550000, stddev 3.154362
+Shuffler SeparateLinearPenaltyShuffler: min: 128.0, max: 131.0, mean 128.720000, stddev 0.813880
+Shuffler SeparateSquarePenaltyShuffler: min: 128.0, max: 130.0, mean 128.250000, stddev 0.624500
+Shuffler LexMinListShuffler: min: 128.0, max: 130.0, mean 128.250000, stddev 0.628490
+
+Processing tournament ('old', 53): 72 players, 8.0 rounds
+Shuffler RandomShuffler: min: 224.0, max: 298.0, mean 268.400000, stddev 3.542880
+Shuffler TotalLinearPenaltyShuffler: min: 236.0, max: 302.0, mean 269.320000, stddev 3.282438
+Shuffler TotalSquaredPenaltyShuffler: min: 234.0, max: 304.0, mean 267.900000, stddev 3.410865
+Shuffler SeparateLinearPenaltyShuffler: min: 38.0, max: 66.0, mean 50.400000, stddev 2.320345
+Shuffler SeparateSquarePenaltyShuffler: min: 36.0, max: 66.0, mean 50.040000, stddev 2.392154
+Shuffler LexMinListShuffler: min: 40.0, max: 66.0, mean 50.920000, stddev 2.227106
+
+Processing tournament ('old', 57): 84 players, 8.0 rounds
+Shuffler RandomShuffler: min: 264.0, max: 338.0, mean 311.160000, stddev 3.612534
+Shuffler TotalLinearPenaltyShuffler: min: 278.0, max: 372.0, mean 317.080000, stddev 3.755636
+Shuffler TotalSquaredPenaltyShuffler: min: 274.0, max: 358.0, mean 312.620000, stddev 3.754251
+Shuffler SeparateLinearPenaltyShuffler: min: 44.0, max: 76.0, mean 60.120000, stddev 2.298347
+Shuffler SeparateSquarePenaltyShuffler: min: 38.0, max: 76.0, mean 59.660000, stddev 2.289192
+Shuffler LexMinListShuffler: min: 44.0, max: 74.0, mean 59.560000, stddev 2.409149
+
+Processing tournament ('old', 81): 32 players, 10.0 rounds
+Shuffler RandomShuffler: min: 120.0, max: 173.0, mean 144.730000, stddev 2.937686
+Shuffler TotalLinearPenaltyShuffler: min: 124.0, max: 171.0, mean 143.870000, stddev 2.761775
+Shuffler TotalSquaredPenaltyShuffler: min: 123.0, max: 166.0, mean 142.620000, stddev 2.657969
+Shuffler SeparateLinearPenaltyShuffler: min: 64.0, max: 66.0, mean 64.230000, stddev 0.598999
+Shuffler SeparateSquarePenaltyShuffler: min: 64.0, max: 65.0, mean 64.070000, stddev 0.360832
+Shuffler LexMinListShuffler: min: 64.0, max: 65.0, mean 64.080000, stddev 0.383667
+
+Processing tournament ('old', 89): 72 players, 12.0 rounds
+Shuffler RandomShuffler: min: 282.0, max: 374.0, mean 331.020000, stddev 3.723010
+Shuffler TotalLinearPenaltyShuffler: min: 298.0, max: 382.0, mean 333.340000, stddev 3.470792
+Shuffler TotalSquaredPenaltyShuffler: min: 284.0, max: 394.0, mean 336.740000, stddev 3.997499
+Shuffler SeparateLinearPenaltyShuffler: min: 36.0, max: 66.0, mean 51.460000, stddev 2.187053
+Shuffler SeparateSquarePenaltyShuffler: min: 38.0, max: 68.0, mean 51.000000, stddev 2.289105
+Shuffler LexMinListShuffler: min: 34.0, max: 66.0, mean 49.520000, stddev 2.238214
+
+Processing tournament ('old', 102): 72 players, 10.0 rounds
+Shuffler RandomShuffler: min: 293.0, max: 367.0, mean 325.260000, stddev 3.496570
+Shuffler TotalLinearPenaltyShuffler: min: 292.0, max: 352.0, mean 324.480000, stddev 3.254167
+Shuffler TotalSquaredPenaltyShuffler: min: 296.0, max: 364.0, mean 325.190000, stddev 3.470764
+Shuffler SeparateLinearPenaltyShuffler: min: 144.0, max: 149.0, mean 144.890000, stddev 0.933916
+Shuffler SeparateSquarePenaltyShuffler: min: 144.0, max: 146.0, mean 144.260000, stddev 0.632772
+Shuffler LexMinListShuffler: min: 144.0, max: 146.0, mean 144.330000, stddev 0.694118
+
+Processing tournament ('old', 118): 48 players, 9.0 rounds
+Shuffler RandomShuffler: min: 169.0, max: 227.0, mean 201.550000, stddev 3.005661
+Shuffler TotalLinearPenaltyShuffler: min: 165.5, max: 234.0, mean 201.770000, stddev 3.363599
+Shuffler TotalSquaredPenaltyShuffler: min: 175.0, max: 233.0, mean 201.245000, stddev 3.120064
+Shuffler SeparateLinearPenaltyShuffler: min: 72.0, max: 84.0, mean 76.140000, stddev 1.322876
+Shuffler SeparateSquarePenaltyShuffler: min: 72.0, max: 81.0, mean 75.140000, stddev 1.231422
+Shuffler LexMinListShuffler: min: 72.0, max: 84.0, mean 75.780000, stddev 1.319545
+
+Processing tournament ('old', 137): 32 players, 10.0 rounds
+Shuffler RandomShuffler: min: 122.0, max: 176.0, mean 145.000000, stddev 2.756810
+Shuffler TotalLinearPenaltyShuffler: min: 124.0, max: 170.0, mean 143.200000, stddev 2.788548
+Shuffler TotalSquaredPenaltyShuffler: min: 116.0, max: 168.0, mean 145.920000, stddev 2.882915
+Shuffler SeparateLinearPenaltyShuffler: min: 64.0, max: 66.0, mean 64.300000, stddev 0.661816
+Shuffler SeparateSquarePenaltyShuffler: min: 64.0, max: 66.0, mean 64.130000, stddev 0.478330
+Shuffler LexMinListShuffler: min: 64.0, max: 66.0, mean 64.090000, stddev 0.406940
+
+Processing tournament ('old', 100): 92 players, 10.0 rounds
+Shuffler RandomShuffler: min: 383.0, max: 458.0, mean 418.280000, stddev 3.560899
+Shuffler TotalLinearPenaltyShuffler: min: 376.0, max: 461.0, mean 417.190000, stddev 3.712843
+Shuffler TotalSquaredPenaltyShuffler: min: 375.0, max: 455.0, mean 416.050000, stddev 3.737914
+Shuffler SeparateLinearPenaltyShuffler: min: 184.0, max: 190.0, mean 185.440000, stddev 1.002796
+Shuffler SeparateSquarePenaltyShuffler: min: 184.0, max: 186.0, mean 184.400000, stddev 0.721110
+Shuffler LexMinListShuffler: min: 184.0, max: 187.0, mean 184.510000, stddev 0.782304
+
+Processing tournament ('old', 151): 64 players, 10.0 rounds
+Shuffler RandomShuffler: min: 254.0, max: 324.0, mean 289.910000, stddev 3.223352
+Shuffler TotalLinearPenaltyShuffler: min: 253.0, max: 318.0, mean 287.070000, stddev 3.160253
+Shuffler TotalSquaredPenaltyShuffler: min: 259.0, max: 322.0, mean 288.440000, stddev 3.374611
+Shuffler SeparateLinearPenaltyShuffler: min: 128.0, max: 132.0, mean 128.690000, stddev 0.822314
+Shuffler SeparateSquarePenaltyShuffler: min: 128.0, max: 130.0, mean 128.380000, stddev 0.729383
+Shuffler LexMinListShuffler: min: 128.0, max: 131.0, mean 128.290000, stddev 0.655134
+
+Processing tournament ('old', 156): 40 players, 10.0 rounds
+Shuffler RandomShuffler: min: 150.0, max: 214.0, mean 177.790000, stddev 2.939830
+Shuffler TotalLinearPenaltyShuffler: min: 153.0, max: 214.0, mean 178.470000, stddev 2.960439
+Shuffler TotalSquaredPenaltyShuffler: min: 152.0, max: 210.0, mean 176.710000, stddev 2.936801
+Shuffler SeparateLinearPenaltyShuffler: min: 80.0, max: 83.0, mean 80.390000, stddev 0.749400
+Shuffler SeparateSquarePenaltyShuffler: min: 80.0, max: 84.0, mean 80.170000, stddev 0.540740
+Shuffler LexMinListShuffler: min: 80.0, max: 81.0, mean 80.120000, stddev 0.459565
+
+Processing tournament ('old', 152): 56 players, 8.0 rounds
+Shuffler RandomShuffler: min: 176.0, max: 236.0, mean 209.600000, stddev 3.226143
+Shuffler TotalLinearPenaltyShuffler: min: 180.0, max: 244.0, mean 209.280000, stddev 3.190235
+Shuffler TotalSquaredPenaltyShuffler: min: 176.0, max: 244.0, mean 208.800000, stddev 3.357380
+Shuffler SeparateLinearPenaltyShuffler: min: 28.0, max: 54.0, mean 40.160000, stddev 1.901578
+Shuffler SeparateSquarePenaltyShuffler: min: 26.0, max: 52.0, mean 39.280000, stddev 2.064558
+Shuffler LexMinListShuffler: min: 30.0, max: 54.0, mean 40.160000, stddev 1.925824
+
+Processing tournament ('old', 163): 48 players, 10.0 rounds
+Shuffler RandomShuffler: min: 183.0, max: 248.0, mean 215.590000, stddev 3.083245
+Shuffler TotalLinearPenaltyShuffler: min: 186.0, max: 252.0, mean 215.380000, stddev 3.097612
+Shuffler TotalSquaredPenaltyShuffler: min: 190.0, max: 246.0, mean 216.330000, stddev 3.042400
+Shuffler SeparateLinearPenaltyShuffler: min: 96.0, max: 99.0, mean 96.520000, stddev 0.776660
+Shuffler SeparateSquarePenaltyShuffler: min: 96.0, max: 99.0, mean 96.300000, stddev 0.666333
+Shuffler LexMinListShuffler: min: 96.0, max: 98.0, mean 96.220000, stddev 0.593296
+
+Processing tournament ('old', 186): 84 players, 14.0 rounds
+Shuffler RandomShuffler: min: 389.0, max: 490.0, mean 446.280000, stddev 4.016765
+Shuffler TotalLinearPenaltyShuffler: min: 399.0, max: 495.0, mean 444.560000, stddev 4.051370
+Shuffler TotalSquaredPenaltyShuffler: min: 395.0, max: 494.0, mean 440.820000, stddev 3.880258
+Shuffler SeparateLinearPenaltyShuffler: min: 168.0, max: 174.0, mean 168.960000, stddev 0.887243
+Shuffler SeparateSquarePenaltyShuffler: min: 168.0, max: 171.0, mean 168.490000, stddev 0.810309
+Shuffler LexMinListShuffler: min: 168.0, max: 171.0, mean 168.350000, stddev 0.714843
+
+Processing tournament ('old', 189): 40 players, 10.0 rounds
+Shuffler RandomShuffler: min: 155.0, max: 218.0, mean 179.040000, stddev 3.152650
+Shuffler TotalLinearPenaltyShuffler: min: 148.0, max: 209.0, mean 182.450000, stddev 3.154045
+Shuffler TotalSquaredPenaltyShuffler: min: 154.0, max: 205.0, mean 180.030000, stddev 2.910636
+Shuffler SeparateLinearPenaltyShuffler: min: 80.0, max: 82.0, mean 80.370000, stddev 0.704131
+Shuffler SeparateSquarePenaltyShuffler: min: 80.0, max: 82.0, mean 80.090000, stddev 0.406940
+Shuffler LexMinListShuffler: min: 80.0, max: 82.0, mean 80.120000, stddev 0.462169
+
+Processing tournament ('old', 203): 36 players, 13.0 rounds
+Shuffler RandomShuffler: min: 148.0, max: 211.0, mean 181.045000, stddev 3.338143
+Shuffler TotalLinearPenaltyShuffler: min: 151.5, max: 213.5, mean 180.945000, stddev 3.111366
+Shuffler TotalSquaredPenaltyShuffler: min: 157.5, max: 211.5, mean 181.070000, stddev 3.116312
+Shuffler SeparateLinearPenaltyShuffler: min: 54.0, max: 62.0, mean 56.600000, stddev 1.197497
+Shuffler SeparateSquarePenaltyShuffler: min: 54.0, max: 60.0, mean 55.790000, stddev 1.064331
+Shuffler LexMinListShuffler: min: 54.0, max: 60.0, mean 55.875000, stddev 1.221679
+
+Processing tournament ('old', 221): 44 players, 8.0 rounds
+Shuffler RandomShuffler: min: 132.0, max: 192.0, mean 163.600000, stddev 3.264353
+Shuffler TotalLinearPenaltyShuffler: min: 134.0, max: 186.0, mean 163.380000, stddev 3.079740
+Shuffler TotalSquaredPenaltyShuffler: min: 144.0, max: 192.0, mean 165.020000, stddev 2.956214
+Shuffler SeparateLinearPenaltyShuffler: min: 22.0, max: 42.0, mean 30.980000, stddev 1.876486
+Shuffler SeparateSquarePenaltyShuffler: min: 20.0, max: 42.0, mean 30.600000, stddev 1.906830
+Shuffler LexMinListShuffler: min: 20.0, max: 44.0, mean 29.860000, stddev 1.948538
+
+Processing tournament ('old', 222): 64 players, 13.0 rounds
+Shuffler RandomShuffler: min: 280.5, max: 358.5, mean 321.105000, stddev 3.607340
+Shuffler TotalLinearPenaltyShuffler: min: 269.0, max: 367.0, mean 321.235000, stddev 3.480158
+Shuffler TotalSquaredPenaltyShuffler: min: 273.0, max: 364.0, mean 322.875000, stddev 3.606591
+Shuffler SeparateLinearPenaltyShuffler: min: 96.0, max: 110.0, mean 101.150000, stddev 1.505988
+Shuffler SeparateSquarePenaltyShuffler: min: 96.0, max: 106.5, mean 100.110000, stddev 1.330864
+Shuffler LexMinListShuffler: min: 96.0, max: 108.0, mean 100.505000, stddev 1.329173
+
+Processing tournament ('old', 223): 64 players, 10.0 rounds
+Shuffler RandomShuffler: min: 263.0, max: 325.0, mean 287.600000, stddev 3.297272
+Shuffler TotalLinearPenaltyShuffler: min: 253.0, max: 326.0, mean 288.400000, stddev 3.398235
+Shuffler TotalSquaredPenaltyShuffler: min: 251.0, max: 325.0, mean 286.320000, stddev 3.244441
+Shuffler SeparateLinearPenaltyShuffler: min: 128.0, max: 133.0, mean 128.990000, stddev 0.820488
+Shuffler SeparateSquarePenaltyShuffler: min: 128.0, max: 130.0, mean 128.370000, stddev 0.709366
+Shuffler LexMinListShuffler: min: 128.0, max: 132.0, mean 128.400000, stddev 0.742967
+
+Processing tournament ('old', 200): 112 players, 10.0 rounds
+Shuffler RandomShuffler: min: 453.0, max: 537.0, mean 502.200000, stddev 3.857979
+Shuffler TotalLinearPenaltyShuffler: min: 459.0, max: 561.0, mean 508.450000, stddev 4.055860
+Shuffler TotalSquaredPenaltyShuffler: min: 467.0, max: 558.0, mean 505.170000, stddev 3.864376
+Shuffler SeparateLinearPenaltyShuffler: min: 224.0, max: 231.0, mean 225.670000, stddev 1.034408
+Shuffler SeparateSquarePenaltyShuffler: min: 224.0, max: 227.0, mean 224.660000, stddev 0.852056
+Shuffler LexMinListShuffler: min: 224.0, max: 228.0, mean 224.580000, stddev 0.784092
+
+Processing tournament ('old', 251): 32 players, 10.0 rounds
+Shuffler RandomShuffler: min: 123.0, max: 178.0, mean 144.180000, stddev 2.708210
+Shuffler TotalLinearPenaltyShuffler: min: 120.0, max: 168.0, mean 143.830000, stddev 2.893683
+Shuffler TotalSquaredPenaltyShuffler: min: 113.0, max: 170.0, mean 141.900000, stddev 2.769476
+Shuffler SeparateLinearPenaltyShuffler: min: 64.0, max: 67.0, mean 64.300000, stddev 0.675278
+Shuffler SeparateSquarePenaltyShuffler: min: 64.0, max: 65.0, mean 64.110000, stddev 0.442493
+Shuffler LexMinListShuffler: min: 64.0, max: 65.0, mean 64.110000, stddev 0.442493
+
+Processing tournament ('old', 261): 40 players, 10.0 rounds
+Shuffler RandomShuffler: min: 157.0, max: 212.0, mean 180.610000, stddev 3.058496
+Shuffler TotalLinearPenaltyShuffler: min: 156.0, max: 216.0, mean 180.460000, stddev 2.862726
+Shuffler TotalSquaredPenaltyShuffler: min: 149.0, max: 206.0, mean 182.490000, stddev 3.284935
+Shuffler SeparateLinearPenaltyShuffler: min: 80.0, max: 84.0, mean 80.500000, stddev 0.806226
+Shuffler SeparateSquarePenaltyShuffler: min: 80.0, max: 81.0, mean 80.150000, stddev 0.504975
+Shuffler LexMinListShuffler: min: 80.0, max: 82.0, mean 80.140000, stddev 0.493559
+
+Processing tournament ('old', 333): 56 players, 10.0 rounds
+Shuffler RandomShuffler: min: 220.0, max: 284.0, mean 252.230000, stddev 2.992424
+Shuffler TotalLinearPenaltyShuffler: min: 225.0, max: 288.0, mean 253.270000, stddev 3.185906
+Shuffler TotalSquaredPenaltyShuffler: min: 228.0, max: 290.0, mean 252.870000, stddev 3.186314
+Shuffler SeparateLinearPenaltyShuffler: min: 112.0, max: 116.0, mean 112.600000, stddev 0.834266
+Shuffler SeparateSquarePenaltyShuffler: min: 112.0, max: 114.0, mean 112.270000, stddev 0.648999
+Shuffler LexMinListShuffler: min: 112.0, max: 114.0, mean 112.210000, stddev 0.583267
+
+Processing tournament ('old', 349): 48 players, 10.0 rounds
+Shuffler RandomShuffler: min: 188.0, max: 247.0, mean 219.790000, stddev 3.114065
+Shuffler TotalLinearPenaltyShuffler: min: 182.0, max: 240.0, mean 215.580000, stddev 3.186973
+Shuffler TotalSquaredPenaltyShuffler: min: 187.0, max: 245.0, mean 215.530000, stddev 2.990284
+Shuffler SeparateLinearPenaltyShuffler: min: 96.0, max: 99.0, mean 96.510000, stddev 0.788797
+Shuffler SeparateSquarePenaltyShuffler: min: 96.0, max: 98.0, mean 96.270000, stddev 0.640625
+Shuffler LexMinListShuffler: min: 96.0, max: 98.0, mean 96.170000, stddev 0.537587
+
+Processing tournament ('new', 27): 76 players, 9.0 rounds
+Shuffler RandomShuffler: min: 281.5, max: 373.0, mean 317.145000, stddev 3.412668
+Shuffler TotalLinearPenaltyShuffler: min: 276.5, max: 349.0, mean 318.040000, stddev 3.449290
+Shuffler TotalSquaredPenaltyShuffler: min: 275.5, max: 358.0, mean 319.180000, stddev 3.461329
+Shuffler SeparateLinearPenaltyShuffler: min: 115.5, max: 126.5, mean 120.335000, stddev 1.513836
+Shuffler SeparateSquarePenaltyShuffler: min: 114.0, max: 127.5, mean 119.145000, stddev 1.356761
+Shuffler LexMinListShuffler: min: 114.0, max: 127.5, mean 119.280000, stddev 1.568439
+
+Processing tournament ('new', 61): 68 players, 10.0 rounds
+Shuffler RandomShuffler: min: 277.0, max: 336.0, mean 304.360000, stddev 3.131645
+Shuffler TotalLinearPenaltyShuffler: min: 276.0, max: 341.0, mean 303.660000, stddev 3.283291
+Shuffler TotalSquaredPenaltyShuffler: min: 259.0, max: 340.0, mean 303.580000, stddev 3.368264
+Shuffler SeparateLinearPenaltyShuffler: min: 136.0, max: 141.0, mean 136.870000, stddev 0.844630
+Shuffler SeparateSquarePenaltyShuffler: min: 136.0, max: 139.0, mean 136.210000, stddev 0.586856
+Shuffler LexMinListShuffler: min: 136.0, max: 139.0, mean 136.350000, stddev 0.714843
+
+Processing tournament ('new', 71): 112 players, 9.821428571428571 rounds
+Shuffler RandomShuffler: min: 458.5, max: 551.5, mean 498.565000, stddev 3.990501
+Shuffler TotalLinearPenaltyShuffler: min: 442.5, max: 545.5, mean 500.510000, stddev 3.701270
+Shuffler TotalSquaredPenaltyShuffler: min: 462.0, max: 546.5, mean 498.870000, stddev 3.949076
+Shuffler SeparateLinearPenaltyShuffler: min: 222.0, max: 227.5, mean 223.940000, stddev 1.052806
+Shuffler SeparateSquarePenaltyShuffler: min: 222.0, max: 226.5, mean 222.775000, stddev 0.906366
+Shuffler LexMinListShuffler: min: 222.0, max: 225.5, mean 222.780000, stddev 0.874300
+
+Processing tournament ('new', 114): 76 players, 15.0 rounds
+Shuffler RandomShuffler: min: 359.0, max: 450.5, mean 410.005000, stddev 3.971775
+Shuffler TotalLinearPenaltyShuffler: min: 355.0, max: 451.5, mean 410.485000, stddev 3.872415
+Shuffler TotalSquaredPenaltyShuffler: min: 361.5, max: 457.0, mean 412.685000, stddev 3.614402
+Shuffler SeparateLinearPenaltyShuffler: min: 115.5, max: 132.0, mean 122.240000, stddev 1.503197
+Shuffler SeparateSquarePenaltyShuffler: min: 115.5, max: 130.5, mean 121.710000, stddev 1.533623
+Shuffler LexMinListShuffler: min: 117.0, max: 129.0, mean 121.155000, stddev 1.522531
+
+Processing tournament ('new', 224): 88 players, 10.0 rounds
+Shuffler RandomShuffler: min: 357.0, max: 453.0, mean 397.880000, stddev 3.727948
+Shuffler TotalLinearPenaltyShuffler: min: 358.0, max: 427.0, mean 396.540000, stddev 3.517215
+Shuffler TotalSquaredPenaltyShuffler: min: 348.0, max: 430.0, mean 396.970000, stddev 3.445374
+Shuffler SeparateLinearPenaltyShuffler: min: 176.0, max: 179.0, mean 177.220000, stddev 0.877724
+Shuffler SeparateSquarePenaltyShuffler: min: 176.0, max: 179.0, mean 176.440000, stddev 0.744580
+Shuffler LexMinListShuffler: min: 176.0, max: 179.0, mean 176.530000, stddev 0.790822
+
+Processing tournament ('new', 273): 108 players, 10.0 rounds
+Shuffler RandomShuffler: min: 428.0, max: 533.0, mean 485.100000, stddev 3.967367
+Shuffler TotalLinearPenaltyShuffler: min: 434.0, max: 535.0, mean 485.560000, stddev 3.971599
+Shuffler TotalSquaredPenaltyShuffler: min: 442.0, max: 526.0, mean 485.090000, stddev 3.547985
+Shuffler SeparateLinearPenaltyShuffler: min: 216.0, max: 221.0, mean 217.450000, stddev 1.020784
+Shuffler SeparateSquarePenaltyShuffler: min: 216.0, max: 219.0, mean 216.590000, stddev 0.775758
+Shuffler LexMinListShuffler: min: 216.0, max: 219.0, mean 216.590000, stddev 0.805605
+
+Processing tournament ('new', 301): 40 players, 10.0 rounds
+Shuffler RandomShuffler: min: 157.0, max: 204.0, mean 179.640000, stddev 2.997332
+Shuffler TotalLinearPenaltyShuffler: min: 158.0, max: 205.0, mean 178.770000, stddev 3.052999
+Shuffler TotalSquaredPenaltyShuffler: min: 159.0, max: 227.0, mean 180.780000, stddev 2.841760
+Shuffler SeparateLinearPenaltyShuffler: min: 80.0, max: 83.0, mean 80.510000, stddev 0.782304
+Shuffler SeparateSquarePenaltyShuffler: min: 80.0, max: 81.0, mean 80.170000, stddev 0.531225
+Shuffler LexMinListShuffler: min: 80.0, max: 82.0, mean 80.090000, stddev 0.406940
+
+Processing tournament ('new', 350): 52 players, 8.615384615384615 rounds
+Shuffler RandomShuffler: min: 178.5, max: 236.5, mean 208.890000, stddev 2.876908
+Shuffler TotalLinearPenaltyShuffler: min: 181.0, max: 236.5, mean 211.790000, stddev 3.212476
+Shuffler TotalSquaredPenaltyShuffler: min: 184.5, max: 242.5, mean 211.825000, stddev 3.149762
+Shuffler SeparateLinearPenaltyShuffler: min: 73.5, max: 85.0, mean 78.610000, stddev 1.550290
+Shuffler SeparateSquarePenaltyShuffler: min: 72.0, max: 82.5, mean 77.105000, stddev 1.436280
+Shuffler LexMinListShuffler: min: 72.0, max: 85.0, mean 78.565000, stddev 1.453410
+
+Processing tournament ('new', 374): 108 players, 15.0 rounds
+Shuffler RandomShuffler: min: 540.5, max: 623.0, mean 581.220000, stddev 4.236508
+Shuffler TotalLinearPenaltyShuffler: min: 528.0, max: 640.5, mean 585.040000, stddev 4.396772
+Shuffler TotalSquaredPenaltyShuffler: min: 524.5, max: 637.0, mean 580.460000, stddev 4.486558
+Shuffler SeparateLinearPenaltyShuffler: min: 166.5, max: 183.0, mean 174.735000, stddev 1.762101
+Shuffler SeparateSquarePenaltyShuffler: min: 165.0, max: 183.0, mean 172.995000, stddev 1.689527
+Shuffler LexMinListShuffler: min: 165.0, max: 180.0, mean 172.545000, stddev 1.613413
+
+Processing tournament ('new', 388): 52 players, 9.0 rounds
+Shuffler RandomShuffler: min: 183.5, max: 244.5, mean 218.025000, stddev 3.102741
+Shuffler TotalLinearPenaltyShuffler: min: 190.0, max: 249.0, mean 217.935000, stddev 3.290137
+Shuffler TotalSquaredPenaltyShuffler: min: 195.5, max: 250.0, mean 219.430000, stddev 3.149825
+Shuffler SeparateLinearPenaltyShuffler: min: 78.0, max: 90.5, mean 82.665000, stddev 1.370401
+Shuffler SeparateSquarePenaltyShuffler: min: 78.0, max: 90.0, mean 81.555000, stddev 1.345548
+Shuffler LexMinListShuffler: min: 78.0, max: 87.0, mean 81.570000, stddev 1.223520
+
+Processing tournament ('new', 408): 48 players, 8.0 rounds
+Shuffler RandomShuffler: min: 150.0, max: 202.0, mean 179.400000, stddev 3.075711
+Shuffler TotalLinearPenaltyShuffler: min: 142.0, max: 208.0, mean 176.860000, stddev 3.336765
+Shuffler TotalSquaredPenaltyShuffler: min: 150.0, max: 204.0, mean 179.340000, stddev 3.032029
+Shuffler SeparateLinearPenaltyShuffler: min: 20.0, max: 44.0, mean 34.380000, stddev 2.053777
+Shuffler SeparateSquarePenaltyShuffler: min: 20.0, max: 48.0, mean 33.040000, stddev 2.038823
+Shuffler LexMinListShuffler: min: 24.0, max: 46.0, mean 33.480000, stddev 1.797999
+
+Processing tournament ('new', 418): 80 players, 10.0 rounds
+Shuffler RandomShuffler: min: 325.0, max: 386.0, mean 359.820000, stddev 3.164870
+Shuffler TotalLinearPenaltyShuffler: min: 331.0, max: 401.0, mean 362.080000, stddev 3.704916
+Shuffler TotalSquaredPenaltyShuffler: min: 326.0, max: 390.0, mean 358.660000, stddev 3.404938
+Shuffler SeparateLinearPenaltyShuffler: min: 160.0, max: 164.0, mean 161.160000, stddev 0.900666
+Shuffler SeparateSquarePenaltyShuffler: min: 160.0, max: 162.0, mean 160.380000, stddev 0.713583
+Shuffler LexMinListShuffler: min: 160.0, max: 162.0, mean 160.490000, stddev 0.753923
+
+Processing tournament ('new', 439): 96 players, 10.0 rounds
+Shuffler RandomShuffler: min: 385.0, max: 473.0, mean 434.060000, stddev 3.891324
+Shuffler TotalLinearPenaltyShuffler: min: 399.0, max: 473.0, mean 434.330000, stddev 3.478017
+Shuffler TotalSquaredPenaltyShuffler: min: 387.0, max: 460.0, mean 430.670000, stddev 3.676438
+Shuffler SeparateLinearPenaltyShuffler: min: 192.0, max: 198.0, mean 193.510000, stddev 1.068925
+Shuffler SeparateSquarePenaltyShuffler: min: 192.0, max: 195.0, mean 192.430000, stddev 0.753392
+Shuffler LexMinListShuffler: min: 192.0, max: 195.0, mean 192.640000, stddev 0.807960
+
+Processing tournament ('new', 458): 92 players, 10.0 rounds
+Shuffler RandomShuffler: min: 371.0, max: 459.0, mean 416.940000, stddev 3.896922
+Shuffler TotalLinearPenaltyShuffler: min: 374.0, max: 471.0, mean 416.990000, stddev 3.801237
+Shuffler TotalSquaredPenaltyShuffler: min: 377.0, max: 458.0, mean 414.430000, stddev 3.749107
+Shuffler SeparateLinearPenaltyShuffler: min: 184.0, max: 190.0, mean 185.410000, stddev 1.019902
+Shuffler SeparateSquarePenaltyShuffler: min: 184.0, max: 187.0, mean 184.450000, stddev 0.776531
+Shuffler LexMinListShuffler: min: 184.0, max: 188.0, mean 184.480000, stddev 0.783837
