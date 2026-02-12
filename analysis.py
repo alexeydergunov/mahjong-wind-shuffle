@@ -8,9 +8,14 @@ from shuffle import Shuffler
 def calculate_tournament_penalty(existing_counts: dict[int, list[int]]) -> float:
     result = 0.0
     for counts in existing_counts.values():
-        mean = sum(counts) / 4.0
+        round_count = sum(counts)
+        ideal = [0] * 4
+        for i in range(round_count):
+            ideal[i % 4] += 1
+        ideal.sort()
+        existing = sorted(counts)
         for i in range(4):
-            result += abs(mean - counts[i])
+            result += abs(ideal[i] - existing[i])
     return result
 
 
